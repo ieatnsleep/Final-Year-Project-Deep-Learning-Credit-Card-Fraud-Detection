@@ -2,6 +2,7 @@
 
 Welcome to my GitHub repository! This project explores the sophisticated realm of credit card fraud detection using deep learning techniques. The aim is to build and refine models capable of identifying fraudulent transactions within a balanced dataset, mirroring the challenges faced in the real-world scenario where fraud instances are significantly less frequent compared to legitimate transactions. Through this project, I've delved into the nuances of applying deep learning methods to a critical financial security issue, showcasing my ability to navigate complex data landscapes and extract meaningful insights.
 
+
 ## Skills Demonstrated:
 
 ### Data Preprocessing & Exploration:
